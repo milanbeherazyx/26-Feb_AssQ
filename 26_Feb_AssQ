@@ -1,0 +1,44 @@
+DEBUG:root:<class 'list'>
+DEBUG:root:<class 'numpy.ndarray'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'numpy.str_'>
+DEBUG:root:<class 'numpy.str_'>
+DEBUG:root:<class 'numpy.str_'>
+DEBUG:root:<class 'numpy.str_'>
+DEBUG:root:<class 'numpy.str_'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'str'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'int'>
+DEBUG:root:<class 'int'>
+DEBUG:root:<class 'int'>
+DEBUG:root:<class 'int'>
+DEBUG:root:<class 'int'>
+DEBUG:root:<class 'int'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:<class 'numpy.int32'>
+DEBUG:root:Shape of num_array: (2, 3)
+DEBUG:root:Size of num_array: 6
+DEBUG:root:[[0. 0. 0.]
+ [0. 0. 0.]
+ [0. 0. 0.]]
+DEBUG:root:[[1. 0. 0. 0. 0.]
+ [0. 1. 0. 0. 0.]
+ [0. 0. 1. 0. 0.]
+ [0. 0. 0. 1. 0.]
+ [0. 0. 0. 0. 1.]]
